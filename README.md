@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there, I’m Alessia! 👋
 
-<!--
-**alessia-corica/alessia-corica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m a **Master’s student in Bioinformatics** at the University of Bologna  
+🌱 Passionate about combining **biology** and **computer science** to explore complex biological systems and data  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 About Me  
+I am particularly interested in:  
+- 🧬 Genomics, molecular evolution, and phylogenetics  
+- 💻 Programming with **Python, R, and Bash**  
+- 📊 Data science and machine learning applications in biology  
+- 🔬 High-throughput sequencing analysis (NGS, RNA-seq, DNA methylation)   
+
+---
+
+## 📫 Connect with Me  
+- Here on **GitHub** 💻  
+- [LinkedIn](https://www.linkedin.com/in/alessia-corica-0a1567215/) 🌐 
+
+---
+
+✨ *“Science is about curiosity, collaboration, and sharing knowledge to make a difference.”*  
